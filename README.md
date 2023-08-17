@@ -1,5 +1,9 @@
-### Hi there 👋
+Hi there 👋
 
+- 🌱 I’m currently learning code, and it's fun!
+- ⚡ Fun fact: The hunger comes from eating.
+
+Enjoy life! 🌻🌞
 <!--
 **marcornc/marcornc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
